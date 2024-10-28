@@ -33,9 +33,10 @@ In this tutorial, we will cover some of the basics, using popular LLM Python lib
   * Hedging
   * Refusals
 * NLP Tasks with LLMs
-  * Sentiment Analysis
   * Text Summarization
-  * Text Generation
+  * Extractive Summarization
+  * Sentiment Analysis
+  * Translation
 
 ## Instructions
 You can open this notebook in Google Colab directly and run all cells in the notebook. Follow instructions in notebook for setting up environment variables in Google Colab.
