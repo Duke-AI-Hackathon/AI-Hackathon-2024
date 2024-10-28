@@ -1,4 +1,4 @@
-# ![Hackathon Logo](public/logo.png =250x250) Duke Generative AI Hackathon 2024
+# <img src="public/logo.png" width="48"> Duke Generative AI Hackathon 2024
 
 Welcome to the official GitHub repository for the **2024 Duke Generative AI Hackathon**! 
 
