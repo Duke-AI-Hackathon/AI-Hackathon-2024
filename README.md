@@ -27,7 +27,7 @@ Here’s a quick guide to what’s inside this repository:
 
         - **`/chatbot`**
           
-    This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
+        This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
 
 ## Getting Started
 
