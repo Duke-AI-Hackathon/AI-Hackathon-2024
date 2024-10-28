@@ -1,4 +1,4 @@
-# Hacker's Guide to Natural Language Processing (NLP)
+# Hacker's Guide to Large Language Models (LLMs)
 
 🚀 Created for the [Duke AI Hackathon 2024](https://dukeaihackathon.com/)
 
