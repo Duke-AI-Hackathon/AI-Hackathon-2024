@@ -25,8 +25,8 @@ Here’s a quick guide to what’s inside this repository:
     - **`/llm`**  
     This folder includes example code for simple generative AI applications. This focuses particularly on Large Language Models and certain stratgeies to get the best results through Prompt Engineering. 
 
-        - `/chatbot`
-        This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
+        - **`/chatbot`**
+    This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
 
 ## Getting Started
 
