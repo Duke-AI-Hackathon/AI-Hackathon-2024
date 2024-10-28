@@ -21,7 +21,13 @@ In this tutorial, we will cover some of the basics, using popular LLM Python lib
   * HuggingFace - Examples
 * Prompting Principles
   * Principle 1 - Clear Instructions
-  * Principle 1 - Let the model think
+    * Strategy 1 - Delimiters
+    * Strategy 2 - Structured output
+    * Strategy 3 - Condition Check
+    * Strategy 4 - Few-Shot Prompting
+  * Principle 2 - Let the model think
+    * Strategy 1 - Provide Step-by-Step instructions for task
+    * Strategy 2 - Instruct the model to work out its own solution first
 * LLM Limitations
   * Hallucinations
   * Hedging
