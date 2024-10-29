@@ -32,7 +32,7 @@ Here’s a quick guide to what’s inside this repository:
 
 	- **`/cv`**
 	
-    Find sample code and resources to build and use a computer vision model.
+        Find sample code and resources to build and use a computer vision model.
 	
 Raspberry Pi tutortials can be found on EdStem
 
