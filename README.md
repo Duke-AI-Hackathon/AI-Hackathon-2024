@@ -31,7 +31,7 @@ Here’s a quick guide to what’s inside this repository:
         This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
 
 	- **`/cv`**
-	Find sample code and resources to build and use a computer vision model.
+    Find sample code and resources to build and use a computer vision model.
 
 ## Getting Started
 
