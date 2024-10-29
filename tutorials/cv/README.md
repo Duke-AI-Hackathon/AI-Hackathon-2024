@@ -18,7 +18,7 @@ You can open this notebook in Google Colab directly and run all cells in the not
 - Image data can be sourced from multiple locations such as the [Roboflow Universe](https://universe.roboflow.com/).
   - This tutorial used a [rock, paper, scissors dataset](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw).
   - If you want to use your own images, then you can use a tool like [CVAT](https://www.cvat.ai/) to annotate the data.
-- Please note that training a YOLOv8 model using ultralytics requires a [particular folder and data structure](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/uUk1YopS94mytGaCav3ZaQ.png).
+- Please note that training a YOLOv8 model using ultralytics requires a [particular folder and data structure](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/uUk1YopS94mytGaCav3ZaQ.png), as well as a data.yaml file (sample data.yaml can be found in the rock, paper, scissors dataset linked above).
 
 ### Run the Current Streamlit App
 
