@@ -73,8 +73,8 @@ Streamlit is a powerful framework for building quick and interactive web apps wi
 
 Feel free to explore the following resources to strengthen your foundational skills before the hackathon:
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [GitHub Learning Lab](https://lab.github.com/): Hands-on exercises to help you master Git and GitHub.
-- [Streamlit Documentation](https://docs.streamlit.io/): Full documentation on building and deploying Streamlit apps.
+- [GitHub Learning Lab](https://github.com/apps/github-learning-lab): Hands-on exercises to help you master Git and GitHub.
+- [Streamlit Gallery](https://streamlit.io/gallery): A variety of starter Streamlit applications to get you familiar with the library. These include LLMs and NLP applications.
 
 ---
 
