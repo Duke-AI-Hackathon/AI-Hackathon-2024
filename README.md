@@ -30,6 +30,12 @@ Here’s a quick guide to what’s inside this repository:
           
         This final folder contains code for a basic Streamlit app for LLM-based chatbots. This folder showcases applications of what you just learnt from the `llm` folder and also serves as an example of Streamlit application.
 
+	- **`/cv`**
+	
+        Find sample code and resources to build and use a computer vision model.
+	
+Raspberry Pi tutortials can be found on EdStem
+
 ## Getting Started
 
 To help you prepare, here’s a list of the basic software and tools you’ll need. Follow the links and tutorials below to download, install, and set up each one.
